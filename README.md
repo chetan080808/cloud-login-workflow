@@ -119,7 +119,7 @@ node app.js
 
 Here are some examples to help visualize the app and AWS setup:
 
-![User Registration Form](Screenshots/UserForm.png)  
+![User Registration Form](Screenshots/UserForm.png.png)  
 _User registration form hosted on EC2_
 
 ![DynamoDB Table](Screenshots/DynamoTable.png)  
