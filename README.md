@@ -122,13 +122,13 @@ Here are some examples to help visualize the app and AWS setup:
 ![User Registration Form](Screenshots/UserForm.png.png)  
 _User registration form hosted on EC2_
 
-![DynamoDB Table](Screenshots/DynamoTable.png)  
+![DynamoDB Table](Screenshots/DynamoTable.png.png)  
 _DynamoDB table view in AWS console_
 
-![Lambda Trigger Setup](Screenshots/LambdaTrigger.png)  
+![Lambda Trigger Setup](Screenshots/LambdaTrigger.png.png)  
 _Lambda function triggered by DynamoDB Stream_
 
-![Welcome Email Sample](Screenshots/WelcomeEmail.png)  
+![Welcome Email Sample](Screenshots/WelcomeEmail.png.png)  
 _Sample welcome email sent via SES_
 
 
