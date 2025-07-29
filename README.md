@@ -119,16 +119,16 @@ node app.js
 
 Here are some examples to help visualize the app and AWS setup:
 
-![User Registration Form](screenshots/user-form.png)  
+![User Registration Form](Screenshots/UserForm.png)  
 _User registration form hosted on EC2_
 
-![DynamoDB Table](screenshots/dynamodb-table.png)  
+![DynamoDB Table](Screenshots/DynamoTable.png)  
 _DynamoDB table view in AWS console_
 
-![Lambda Trigger Setup](screenshots/lambda-trigger.png)  
+![Lambda Trigger Setup](Screenshots/LambdaTrigger.png)  
 _Lambda function triggered by DynamoDB Stream_
 
-![Welcome Email Sample](screenshots/welcome-email.png)  
+![Welcome Email Sample](Screenshots/WelcomeEmail.png)  
 _Sample welcome email sent via SES_
 
 
